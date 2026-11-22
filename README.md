@@ -77,13 +77,29 @@ A movie recommendation system that recommends movies based on similarity between
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Analytics</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedant-builds06&show_icons=true&theme=github_dark&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-builds06&layout=compact&theme=github_dark&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vedant-builds06&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=63E6BE&icon_color=63E6BE&text_color=FFFFFF" />
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-builds06&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=63E6BE&text_color=FFFFFF" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=vedant-builds06&theme=dark&hide_border=true&background=0D1117&ring=63E6BE&fire=63E6BE&currStreakLabel=63E6BE" />
+
+</div>
+
+<h2 align="center">🐍 Contribution Graph</h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vedant-builds06&bg_color=0D1117&color=63E6BE&line=63E6BE&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
 
 ## 🤝 Connect With Me
 
